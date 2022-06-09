@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel Wylie, or @samsonhumber
 - 👀 I’m interested in becoming an awesome programmer
 - 🌱 I’m currently learning Javascript and lots of other things with School of Code
-- 💞️ I’m looking to collaborate on: not sure yet
+- 💞️ I’m looking to collaborate on: a project with machine learning perhaps?
 - 📫 How to reach me: unless you are in School of Code, I am not ready to be reached right now 🙁
 
 <!---
