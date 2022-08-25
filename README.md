@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Samuel Wylie, or @samsonhumber
-- 👀 I’m interested in becoming an awesome programmer
-- 🌱 I’m currently learning Javascript and lots of other things with School of Code
-- 💞️ I’m looking to collaborate on: a project with machine learning perhaps?
-- 📫 How to reach me: unless you are in School of Code, I am not ready to be reached right now 🙁
+- 👀 I’m interested in a junior full stack or back-end development role
+- 🌱 I have completed the School of Code bootcamp (JavaScript development), but the learning never stops! 
+- 💞️ I’m looking to collaborate on: a project to get to grips with machine learning together, and any other interesting projects
+- 📫 How to reach me: find me on [LinkedIn](https://www.linkedin.com/in/samuel-sam-wylie-3852a622b/)
 
 <!---
 samsonhumber/samsonhumber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
