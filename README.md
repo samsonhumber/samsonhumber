@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Wylie, or @samsonhumber
 - 👀 I’m interested in a junior full stack or back-end development role
-- 🌱 I have completed the School of Code bootcamp (JavaScript development), but the learning never stops! 
+- 🌱 I have 2 years of development experience
 - 💞️ I’m looking to collaborate on: a project to get to grips with machine learning together, and any other interesting projects
 - 📫 How to reach me: find me on [LinkedIn](https://www.linkedin.com/in/samuel-sam-wylie-3852a622b/)
 
